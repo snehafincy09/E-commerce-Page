@@ -2,7 +2,7 @@
 
 A fully responsive flower e-commerce website built from scratch with HTML and CSS — featuring a warm maroon, cream, and gold aesthetic designed to feel boutique and editorial rather than templated.
 
-**[Live Demo](#)** · **[View Code](#)**
+**[Live Demo](#https://snehafincy09.github.io/E-commerce-Page/)** 
 
 ---
 
